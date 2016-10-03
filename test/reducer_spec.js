@@ -65,5 +65,7 @@ describe('reducer', () => {
       tally: {Trainspotting: 1}
     }
   }));
-});
+  });
+  
+ 
 });
